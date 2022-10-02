@@ -34,13 +34,15 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) | March 15 | April 15 |N/A
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) | | |N/A
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | Spring/Summer/Fall | |N/A
-| [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  | | |N/A
+| [CommunitOutreachyy Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  | | |N/A
 | [PClub Summer Of Code](https://www.pclubsummerofcode.in/) | No | [timeline](https://www.pclubsummerofcode.in/static/mentors/img/PSoC_Mentee_Manual.pdf)| | |N/A
 | [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |   | |N/A
 | [Vectorised IO](https://vectorized.io/scholarship/) | Yes | | | |N/A
 | [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn)  | Yes  |   [timeline](https://summer.iscas.ac.cn/help/en/timeline/)  | May 24 | October 22 |N/A
 | [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code) | Yes | [timeline](https://opensource.tencent.com/summer-of-code#flow) | | |N/A
 | [Microsoft Learn Student Ambassador Program](https://studentambassadors.microsoft.com/)  | NO | | | |N/A
+| [Outreachy](https://www.outreachy.org/)  |  $7,000 USD | [timeline](https://www.outreachy.org/) | 3 MONTHS | |N/A
+
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
 * ** OSoC is only open to Belgian students.
 
